@@ -1,0 +1,16 @@
+to pull from winston
+    go to gitgraph and press cloud looking thing
+    will fetch remote
+    right click on winston|main and pull into current branch
+    will merge (meaning i commited my changes before pulling from winston) if necessary
+
+to commit my own changes
+    press + to changes at the left of source control, becomes staged changes
+    press tick at top to commit
+    put a comment to this commit aka add my own lesson5 notes
+
+
+to push my own branch into github online
+    right click on main|origin and push branch
+
+
