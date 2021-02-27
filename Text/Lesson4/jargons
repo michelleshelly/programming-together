@@ -1,0 +1,16 @@
+repository / git repository := folder that is enabled with git (version control tool)
+diff (git diff)
+forking
+
+git commands:
+- commit
+- pull
+
+git ignore
++ is staged changes
+branch
+main is the version
+
+python jargons
+"None" is the smallest number jargon
+"is" (similar to == but stronger), "is not"
